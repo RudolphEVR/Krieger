@@ -1,0 +1,16 @@
+current directory: C:/Users/vazqu/Krieger/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.4.7/ext/bootsnap
+C:/tools/ruby27/bin/ruby.exe -I C:/tools/ruby27/lib/ruby/2.7.0 -r ./siteconf20200808-9440-1xpu1li.rb extconf.rb
+creating Makefile
+
+current directory: C:/Users/vazqu/Krieger/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.4.7/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: C:/Users/vazqu/Krieger/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.4.7/ext/bootsnap
+make "DESTDIR="
+generating bootsnap-x64-mingw32.def
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: C:/Users/vazqu/Krieger/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.4.7/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20200808-9440-1knejal/bootsnap
